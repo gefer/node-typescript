@@ -1,7 +1,12 @@
-# Awesome Project Build with TypeORM
+# Requisitos para funcionamento
 
-Steps to run this project:
+* Node.js Instalado no computador
+* Postgres & PgAdmin instalados
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+
+## Instruções para Execução do Projeto
+
+* Abra o Terminal na pasta Raiz do Projeto
+* Rode o comando `npm i`
+* Configure o banco de dados no arquivo `ormconfig.json`
+* Rode o comando `npm start`
